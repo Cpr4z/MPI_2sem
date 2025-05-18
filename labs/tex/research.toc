@@ -1,0 +1,47 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Глоссарий}{4}{chapter*.1}%
+\contentsline {section}{Введение}{5}{Item.16}%
+\contentsline {section}{Основания для разработки}{6}{Item.16}%
+\contentsline {section}{Назначение разработки}{6}{Item.16}%
+\contentsline {section}{Существующие аналоги}{6}{Item.16}%
+\contentsline {section}{Описание системы}{7}{Item.19}%
+\contentsline {section}{Требования к функциональным характеристикам}{8}{Item.19}%
+\contentsline {section}{Функциональные требования к порталу с точки зрения пользователя}{8}{Item.25}%
+\contentsline {section}{Входные данные}{10}{Item.31}%
+\contentsline {section}{Выходные параметры}{12}{table.0.1}%
+\contentsline {section}{Топология системы}{14}{table.0.2}%
+\contentsline {section}{Требования по реализации со стороны заказчика}{19}{Item.38}%
+\contentsline {section}{Функциональные требования по подсистемам}{20}{Item.48}%
+\contentsline {section}{Сценарий взаимодействия фронтенда и бекендов}{22}{Item.52}%
+\contentsline {section}{Сценарий взаимодействия бекендов}{22}{Item.55}%
+\contentsline {section}{Пользовательский интерфейс}{30}{Item.72}%
+\contentsline {section}{Требования к дизайну}{31}{Item.75}%
+\contentsline {section}{Требования к составу и параметрам технических средств}{36}{Item.91}%
+\contentsline {section}{Требования к надежности}{36}{Item.91}%
+\contentsline {section}{Требования к документации}{36}{Item.91}%
+\contentsline {chapter}{Проектирование системы}{37}{chapter*.3}%
+\contentsline {section}{Концептуальный дизайн}{37}{section*.4}%
+\contentsline {subsection}{Концептуальная модель системы в нотации IDEF0}{37}{section*.4}%
+\contentsline {section}{Сценарии функционирования системы}{38}{figure.caption.6}%
+\contentsline {section}{Диаграммы прецедентов}{42}{Item.126}%
+\contentsline {section}{Спецификация сценария <<регистрация пользователя>>}{42}{figure.caption.7}%
+\contentsline {section}{Спецификация сценария <<авторизация пользователя>>}{44}{figure.caption.8}%
+\contentsline {section}{Спецификация сценария <<покупка билета>>}{45}{figure.caption.9}%
+\contentsline {section}{Логический дизайн}{50}{table.0.7}%
+\contentsline {subsection}{Диаграммы классов}{50}{section*.10}%
+\contentsline {subsubsection}{Описание классов сервисов}{58}{subsubsection*.18}%
+\contentsline {subsubsection}{Описание классов сервиса рейсов}{59}{subsubsection*.19}%
+\contentsline {subsubsection}{Описание классов сервиса билетов}{59}{subsubsection*.20}%
+\contentsline {subsubsection}{Описание классов сервиса сессий и пользователей}{60}{subsubsection*.21}%
+\contentsline {subsubsection}{Описание классов сервиса-координатора}{61}{subsubsection*.22}%
+\contentsline {subsubsection}{Описание классов сервиса оплаты}{62}{subsubsection*.23}%
+\contentsline {subsubsection}{Описание классов сервиса статистики}{62}{subsubsection*.24}%
+\contentsline {subsection}{Диаграмма действий}{63}{subsubsection*.24}%
+\contentsline {subsection}{Диаграмма последовательности действий}{64}{figure.caption.25}%
+\contentsline {subsection}{Диаграмма потоков данных}{64}{figure.caption.26}%
+\contentsline {section}{Высокоуровневый дизайн пользовательского интерфейса}{66}{figure.caption.27}%
+\contentsline {section}{Физический дизайн}{69}{figure.caption.33}%
+\contentsline {subsection}{Выбор системы развертывания компонентов распределенной системы}{69}{section*.34}%
+\contentsline {subsection}{Выбор операционной системы}{71}{Item.129}%
+\contentsline {subsection}{Выбор СУБД}{71}{Item.129}%
+\contentsline {subsection}{Обеспечение надежности портала}{73}{Item.129}%

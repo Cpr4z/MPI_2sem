@@ -1,0 +1,32 @@
+\documentclass{bmstu}
+
+\usepackage{pdfpages}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{enumitem}
+
+\addbibresource{lib.bib}
+
+% \bibliography{biblio}
+
+\begin{document}
+\includepdf{../images/title.pdf}
+\renewcommand\labelitemi{---}
+\maketableofcontents
+
+% \include{01-definitions}
+\include{04-analysis}
+\include{05-design}
+
+\makebibliography
+
+%\include{08-conclusion}
+
+% \makebibliography
+
+% \include{09-appendix}
+
+\end{document}
